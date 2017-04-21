@@ -1,4 +1,3 @@
-out
-vcs.xml
-.idea
-/.idea/vcs.xml
+/out/
+/.idea/
+WorkWithFiles.iml
