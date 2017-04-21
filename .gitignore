@@ -1,4 +1,4 @@
 out
 vcs.xml
 .idea
-!/.idea/vcs.xml
+/.idea/vcs.xml
